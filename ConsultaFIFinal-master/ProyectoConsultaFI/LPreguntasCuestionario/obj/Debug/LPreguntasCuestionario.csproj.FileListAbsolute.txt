@@ -1,0 +1,2 @@
+C:\Users\axel__000\source\repos\ProyectoConsultaFI\LPreguntasCuestionario\obj\Debug\LPreguntasCuestionario.csprojResolveAssemblyReference.cache
+C:\Users\axel__000\source\repos\ProyectoConsultaFI\LPreguntasCuestionario\obj\Debug\LPreguntasCuestionario.csproj.CoreCompileInputs.cache
